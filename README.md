@@ -7,6 +7,9 @@ list of GC Command :
 * 1/... maybe X/B
 * 2/... maybe X/B
 
+step:
+1. Open hackmii by running bootmii.elf 
+
 ## 4.1u nand formatter2 
 * nand formatter 2.0.elf
 * /bootmii
